@@ -4,7 +4,7 @@ public class PositiveNegativeNumber {
 
     public static void main(String[] args) {
 
-        int number = 0;
+        int number = 9;
 
         if (number<0) {
 
