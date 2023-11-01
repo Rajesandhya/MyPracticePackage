@@ -3,7 +3,7 @@ package practicepackage;
 public class VotingEligibility {
 
     public static void main(String[] args) {
-        int age = 17;
+        int age = 20;
         if ( age>=18 ) {
 
             System.out.println( " Allow to do voting ");}
